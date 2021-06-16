@@ -3,7 +3,7 @@
 #i tried to transfet data from one arduino to another using laser and LDR(not an ideal i know)
 #this is  all written by me from scrach, don't expect perfection:)
 #i was getting around 2-3kb/s on average-_-
-#
+#check my instructable for more info https://www.instructables.com/Diy-Li-Fi-Using-Arduino/
 #
 #
 #
