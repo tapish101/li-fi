@@ -42,7 +42,7 @@ void startListening(){
 
 //a very simple binay to decimal covertor
 void printChar(int x[bits]){
-  int num= a[1]*64 + a[2]*32 + a[3]*16 +a[4]*8 +a[5]*4 +a[6]*2 +a[7];
+  int num= a[0]*128 + a[1]*64 + a[2]*32 + a[3]*16 +a[4]*8 +a[5]*4 +a[6]*2 +a[7];
   //printing the corresponding char val
   Serial.print((char)num);    
 }
